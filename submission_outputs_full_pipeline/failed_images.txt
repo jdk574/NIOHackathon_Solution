@@ -1,0 +1,12 @@
+hole_021_normalised.jpg: face detection failed: 0
+hole_022_normalised.jpg: face detection failed: 51
+hole_024_normalised.jpg: face detection failed: 6
+hole_026_normalised.jpg: face detection failed: 0
+hole_037_normalised.jpg: face detection failed: 67
+hole_039_normalised.jpg: face detection failed: 65
+hole_066_normalised.jpg: face detection failed: 0
+hole_068_normalised.jpg: face detection failed: 79
+hole_073_normalised.jpg: face detection failed: 71
+hole_083_normalised.jpg: face detection returned no triangles or quads
+hole_088_normalised.jpg: face detection failed: 2
+hole_090_normalised.jpg: face detection failed: 79
